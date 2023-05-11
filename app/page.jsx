@@ -8,8 +8,9 @@ const Home = () => (
       <span className="orange_gradient text-center"> AI-Powered Prompts</span>
     </h1>
     <p className="desc text-center">
-      Promptly is an open-source AI prompting tool for modern world to discover,
-      create and share creative prompts
+      Promptly is an cutting-edge, open-source AI prompting solution designed
+      for today's world, enabling users to explore, generate, and exchange AI
+      prompts
     </p>
 
     <Feed />
